@@ -1,0 +1,19 @@
+
+
+h1 {
+    color : rgb(127, 127, 58);
+    font-family: Arial, sans-serif;
+    padding: 50px;  
+}
+
+.button {
+    padding: 10px 20px;
+    display: block;
+    margin: 0 auto;
+    
+}
+
+#botao-fugitivo {
+    position: absolute; /* Permite mover o botão por toda a tela */
+    transition: all 0.1s ease; /* Deixa o movimento de "fuga" mais suave */
+}
